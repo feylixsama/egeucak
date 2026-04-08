@@ -2337,7 +2337,7 @@ function renderUpdatesHub() {
         <div class="updates-section">
           <h3>• Yakında gelecekler... (bazılarını üşengeçlikten eklemeyebilirim.)</h3>
           <ul>
-            <li>Daha fazla şarkı ( çokzor )</li>
+            <li>Daha fazla şarkı (çokzor)</li>
             <li>Sayısal dersler hakkında daha çok içerik</li>
             <li>Kolay+Orta+Zor seviye toplama çıkarma, çarpma, bölme işlemleri</li>
             <li>İngilizce cümlelerini hatasız çevirme</li>
