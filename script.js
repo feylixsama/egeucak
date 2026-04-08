@@ -2337,7 +2337,7 @@ function renderUpdatesHub() {
         <div class="updates-section">
           <h3>• Yakında gelecekler... (bazılarını üşengeçlikten eklemeyebilirim.)</h3>
           <ul>
-            <li>Daha fazla şarkı</li>
+            <li>Daha fazla şarkı ( çokzor )</li>
             <li>Sayısal dersler hakkında daha çok içerik</li>
             <li>Kolay+Orta+Zor seviye toplama çıkarma, çarpma, bölme işlemleri</li>
             <li>İngilizce cümlelerini hatasız çevirme</li>
@@ -2345,18 +2345,15 @@ function renderUpdatesHub() {
             <li>Türkiye haritasından 20 tane dağı bulma</li>
             <li>Oyuna girerken istediğin soru miktarını yazıp girebilme</li>
             <li>İşaret dili öğrenme testi</li>
-            <li>Sıradaki şarkıları önceden seçebilme</li>
             <li>Dünya haritasında parlayan ülkeyi bulmaya çalışma</li>
             <li>Dil bilmece (rastgele bir cümle veya kelime ile hangi dil olduğunu bulma)</li>
             <li>Padişah tahmin etme (36 padişahtan padişah başı tahmini 5-10 soru olacak şekilde 360soru)</li>
             <li>Kronolojik padişah sıralaması</li>
             <li>Yazar - Eser eşleştirme</li>
-            <li>Periyodik tablo ( yarış halinde yapılabilir belki ) Element sembollü versiyonuda olabilir</li>
+            <li>İlk 20 element ( yarış halinde yapılabilir belki ) Element sembollü versiyonuda olabilir</li>
             <li>Nüfus kıyaslaması (2 ülke koyup nüfusu daha az olanı seçmek)</li>
             <li>Mucitler ve İcatları</li>
             <li>Kalori Tahmini: "Hangisi daha fazla kalori içerir?" kıyaslaması</li>
-            <li>Şarkılar çok fazla olduğu zaman playlisti türlere ayırabilirim.</li>
-            <li>İleride yapmayı öğrenebilirsem "Öneri İletme" seçeneği ekleyeceğim.Böylece önerilerinizi daha hızlı görebilirim.</li>
           </ul>
         </div>
       </div>
