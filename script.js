@@ -1726,7 +1726,7 @@ function requestPlayerName() {
         <div class="player-name-badge">Oyuncu Girişi</div>
         <h3>Oyuncu adını gir</h3>
         <p>Skorun bu isimle tabloya kaydedilecek.</p>
-        <input id="player-name-input" type="text" maxlength="24" placeholder="Örn: Ege" value="${previous.replace(/"/g, "&quot;")}" />
+        <input id="player-name-input" type="text" maxlength="24" placeholder="Örn: ırgatlı" value="${previous.replace(/"/g, "&quot;")}" />
         <div class="player-name-actions">
           <button class="secondary-btn" id="player-name-cancel">Vazgeç</button>
           <button id="player-name-confirm">Oyuna Başla</button>
