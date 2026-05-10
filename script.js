@@ -3616,19 +3616,7 @@ function bindMusicControls(e, a, n, t) {
       }),
       syncMusicSlider(e)));
 }
-function renderUpdatesHub() {
-  (cleanupNameModal(),
-    clearAnswerAdvanceTimer(),
-    stopGeographyMusic(!0),
-    stopUniversalMusic(),
-    (currentGame = null),
-    setTopbar("🗒️ Yakında Gelecekler", "", "center"),
-    setFullscreenButtonVisible(!0),
-    (appScreen.innerHTML =
-      '\n    <div class="updates-screen">\n      <div class="updates-screen-head">\n        <button type="button" class="secondary-btn menu-btn small-menu-btn" id="back-home-coming">← Menü</button>\n      </div>\n\n      <div class="updates-box">\n        <div class="updates-box-icon">🗒️</div>\n        <h2>Yakında!</h2>\n        <div class="updates-section">\n                    <h3>• mişmişmiş</h3>\n          <ul>\n          </ul>\n        </div>\n        <div class="updates-section">\n          <h3>• Yakında gelecekler... (bazılarını üşengeçlikten eklemeyebilirim.)</h3>\n          <ul>\n                        <li>Sayısal dersler hakkında daha çok içerik</li>\n            <li>Kolay+Orta+Zor seviye toplama çıkarma, çarpma, bölme işlemleri</li>\n            <li>İngilizce cümlelerini hatasız çevirme</li>\n            <li>İngilizce dışı basit düzeyde yabancı dil kelimeler bilme</li>\n            <li>Türkiye haritasından 20 tane dağı bulma</li>\n                        <li>İşaret dili öğrenme testi</li>\n            <li>Dünya haritasında parlayan ülkeyi bulmaya çalışma</li>\n            <li>Dil bilmece (rastgele bir cümle veya kelime ile hangi dil olduğunu bulma)</li>\n                                               <li>İlk 20 element ( yarış halinde yapılabilir belki ) Element sembollü versiyonuda olabilir</li>\n            <li>Nüfus kıyaslaması (2 ülke koyup nüfusu daha az olanı seçmek)</li>\n            <li>Mucitler ve İcatları</li>\n            <li>Kalori Tahmini: "Hangisi daha fazla kalori içerir?" kıyaslaması</li>\n          </ul>\n        </div>\n      </div>\n    </div>\n  '));
-  const e = document.getElementById("back-home-coming");
-  e && e.addEventListener("click", renderHome);
-}
+
 function renderHome() {
   (cleanupNameModal(),
     clearAnswerAdvanceTimer(),
