@@ -1,0 +1,1 @@
+window.ENGLISH_WORD_BANK = window.ENGLISH_WORD_BANK || {};
